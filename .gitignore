@@ -5,3 +5,6 @@ lib
 source/JetBrainsMono.backup
 env
 .DS_Store
+.ninja_log
+build.ninja
+instance_ufos/
